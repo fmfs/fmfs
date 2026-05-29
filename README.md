@@ -1,7 +1,7 @@
-<h1 align="center">Hey, I'm [Your Name] 👋</h1>
+<h1 align="center">Hey, I'm Fahim 👋</h1>
 
 <p align="center">
-  EEE undergrad · embedded systems nerd · learning in public
+  EEE undergrad · embedded systems nerd 
 </p>
 
 <p align="center">
@@ -12,11 +12,12 @@
 
 ---
 
-I study **Electrical & Electronic Engineering** at [University], batch [Year]. Lately I'm obsessed with microcontrollers — the idea that a few lines of C can move a motor or read a sensor still feels like magic to me.
+I study **Electrical & Electronic Engineering** at Sylhet Engineering College (Shahjalal University of Science and Technology)
+, batch 2023-24. Lately I'm obsessed with microcontrollers — the idea that a few lines of C can move a motor or read a sensor still feels like magic to me.
 
 - 🔧 &nbsp; Playing with Arduino, AVR, ESP32
 - 📡 &nbsp; Getting into I²C, SPI, UART
-- 📐 &nbsp; Learning PCB design (KiCad)
+- 📐 &nbsp; Learning PCB design (Altium, EasyEDA)
 - 🐣 &nbsp; Not a professional yet — just building and breaking things
 
 ---
@@ -25,9 +26,8 @@ I study **Electrical & Electronic Engineering** at [University], batch [Year]. L
 
 | | Project | What I learned |
 |--|---------|----------------|
-| 🌡️ | **Temp & Humidity Monitor** — DHT11 + LCD display | Sensor interfacing, basic C |
 | 🤖 | **Line Following Robot** — IR sensors + ATmega328P | PWM, motor control |
-| 🔜 | **[Next project]** | *(in progress)* |
+| 🔜 | **Future Engineer (WRO) ** | *Obstacle Avoidance * | Color detection |
 
 ---
 
