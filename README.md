@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:[fahim.eee.sec@gmail.com]"><img src="https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/[fahim-eee]"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=[fmfs]&color=7c3aed&style=flat&label=visitors"/>
+ <a> <img src="https://komarev.com/ghpvc/?username=[fmfs]&color=7c3aed&style=flat&label=visitors"/></a>
 </p>
 
 ---
