@@ -18,6 +18,7 @@ I study **Electrical & Electronic Engineering** at Sylhet Engineering College (S
 - 🔧 &nbsp; Playing with Arduino, AVR, ESP32
 - 📡 &nbsp; Getting into I²C, SPI, UART
 - 📐 &nbsp; Learning PCB design (Altium, EasyEDA)
+- 📐 &nbsp; Learning 3D Modeling (Fusion 360)
 - 🐣 &nbsp; Not a professional yet — just building and breaking things
 
 ---
@@ -27,7 +28,7 @@ I study **Electrical & Electronic Engineering** at Sylhet Engineering College (S
 | | Project | What I learned |
 |--|---------|----------------|
 | 🤖 | **Line Following Robot** — IR sensors + ATmega328P | PWM, motor control |
-| 🔜 | **Future Engineer (WRO) ** | *Obstacle Avoidance * | Color detection |
+| 🔜 | **Future Engineer (WRO)** _ Obstacle Avoidance  | Color detection |
 
 ---
 
