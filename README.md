@@ -27,8 +27,8 @@ I study **Electrical & Electronic Engineering** at Sylhet Engineering College (S
 
 | | Project | What I learned |
 |--|---------|----------------|
-| 🤖 | **Line Following Robot** — IR sensors + ATmega328P | PWM, motor control |
-| 🔜 | **Future Engineer (WRO)** _ Obstacle Avoidance  | Color detection |
+| 🤖 | **Line Following Robot** | PWM, motor control,building OS |
+| 🔜 | **Future Engineer (WRO)** Obstacle Avoidance | Color detection |
 
 ---
 
