@@ -27,7 +27,7 @@ I study **Electrical & Electronic Engineering** at Sylhet Engineering College (S
 
 | | Project | What I learned |
 |--|---------|----------------|
-| 🤖 | **Line Following Robot** | PWM, motor control,building OS |
+| 🤖 | **Line Following Robot** | PID ,building OS |
 | 🔜 | **Future Engineer (WRO)** Obstacle Avoidance | Color detection |
 
 ---
