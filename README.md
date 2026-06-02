@@ -46,22 +46,17 @@ STM32 • CubeIDE • HAL
 </p>
   <!-- SOFTWARE / TOOLS -->
 
- <h2 style="margin-top:50px;">TOOLS</h2>
+<h2 style="margin-top:50px;">TOOLS</h2>
+
 <p>
-  <!-- VS Code -->
   <img src="https://skillicons.dev/icons?i=vscode" height="60"/>
-
-  <!-- MATLAB -->
   <img src="https://skillicons.dev/icons?i=matlab" height="60"/>
-
-  <!-- Git -->
   <img src="https://skillicons.dev/icons?i=git" height="60"/>
-
-  <!-- GitHub -->
   <img src="https://skillicons.dev/icons?i=github" height="60"/>
+</p>
 
-  <!-- Fusion 360 (no skillicon → clean fallback) -->
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/fusion360.png" height="60"/>
+<p style="font-size:16px; margin-top:10px;">
+  ⚙️ Fusion 360
 </p>
 
   <!-- DOMAINS -->
