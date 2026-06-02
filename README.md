@@ -55,10 +55,7 @@
   <img src="https://skillicons.dev/icons?i=matlab" height="60"/>
   <img src="https://skillicons.dev/icons?i=git" height="60"/>
   <img src="https://skillicons.dev/icons?i=github" height="60"/>
-</p>
-
-<p style="font-size:16px; margin-top:10px;">
-  ⚙️ Fusion 360
+  <img src="https://img.shields.io/badge/Fusion%20360-FF6C00?style=for-the-badge&logo=autodesk&logoColor=white"/>
 </p>
 
   <!-- DOMAINS -->
