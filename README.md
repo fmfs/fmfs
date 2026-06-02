@@ -61,7 +61,7 @@ STM32 • CubeIDE • HAL
   <img src="https://skillicons.dev/icons?i=github" height="60"/>
 
   <!-- Fusion 360 (no skillicon → clean fallback) -->
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fusion360/fusion360-original.svg" height="60"/>
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/fusion360.png" height="60"/>
 </p>
 
   <!-- DOMAINS -->
