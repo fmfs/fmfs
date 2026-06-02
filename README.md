@@ -30,7 +30,7 @@
   <img src="https://cdn.simpleicons.org/stmicroelectronics" height="60"/>
 
   <!-- CubeIDE / HAL (represented via STM ecosystem) -->
-p>
+<p>
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
   <img src="https://img.shields.io/badge/CubeIDE-0A66C2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/HAL-1E1E1E?style=for-the-badge"/>
