@@ -30,7 +30,9 @@
   <img src="https://cdn.simpleicons.org/stmicroelectronics" height="60"/>
 
   <!-- CubeIDE / HAL (represented via STM ecosystem) -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/STMicroelectronics_logo.svg" height="60"/>
+<p style="font-size:14px;">
+STM32 • CubeIDE • HAL
+</p>
 </p>
   <!-- PCB / HARDWARE -->
 
