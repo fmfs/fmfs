@@ -13,6 +13,6 @@
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![MATLAB]([https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white](https://commons.wikimedia.org/wiki/File:Matlab_Logo.png))
+![MATLAB](Matlab_Logo.png)
 
 
