@@ -30,7 +30,7 @@
   <img src="https://cdn.simpleicons.org/stmicroelectronics" height="60"/>
 
   <!-- CubeIDE / HAL (represented via STM ecosystem) -->
-  <img src="[https://cdn.simpleicons.org/eclipseide](https://www.iboostup.com/how-to-uninstall/com.st.stm32cube.ide.mcu.rcp.product)" height="60"/>
+  <img src="https://www.iboostup.com/how-to-uninstall/com.st.stm32cube.ide.mcu.rcp.product" height="60"/>
 </p>
   <!-- PCB / HARDWARE -->
 
