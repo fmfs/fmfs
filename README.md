@@ -9,15 +9,29 @@
   <h1 style="margin-top:40px; letter-spacing:2px;">⚡ EXPERTISE ⚡</h1>
 
   <!-- EMBEDDED -->
+<h2 style="margin-top:50px;">EMBEDDED</h2>
+<p>
+  <!-- Arduino -->
+  <img src="https://skillicons.dev/icons?i=arduino" height="60"/>
 
-  <h2 style="margin-top:50px;">EMBEDDED</h2>
-  <p>
-    <img src="https://skillicons.dev/icons?i=arduino" height="60"/>
-    <img src="https://skillicons.dev/icons?i=raspberrypi" height="60"/>
-    <img src="https://skillicons.dev/icons?i=c" height="60"/>
-    <img src="https://skillicons.dev/icons?i=cpp" height="60"/>
-  </p>
+  <!-- Raspberry Pi -->
+  <img src="https://skillicons.dev/icons?i=raspberrypi" height="60"/>
 
+  <!-- C -->
+  <img src="https://skillicons.dev/icons?i=c" height="60"/>
+
+  <!-- C++ -->
+  <img src="https://skillicons.dev/icons?i=cpp" height="60"/>
+
+  <!-- Python -->
+  <img src="https://skillicons.dev/icons?i=python" height="60"/>
+
+  <!-- STM32 (no official icon → use chip style) -->
+  <img src="https://cdn.simpleicons.org/stmicroelectronics" height="60"/>
+
+  <!-- CubeIDE / HAL (represented via STM ecosystem) -->
+  <img src="https://cdn.simpleicons.org/eclipseide" height="60"/>
+</p>
   <!-- PCB / HARDWARE -->
 
   <h2 style="margin-top:50px;">PCB & HARDWARE</h2>
