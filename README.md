@@ -3,7 +3,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Fahim | Expertise</title>
 </head>
 <body style="margin:0; padding:0; background:#0d1117; color:white; font-family:sans-serif; text-align:center;">
 
