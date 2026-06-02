@@ -12,26 +12,7 @@
 
 ---
 
-I study **Electrical & Electronic Engineering** at Sylhet Engineering College (Shahjalal University of Science and Technology)
-, batch 2023-24. Lately I'm obsessed with microcontrollers — the idea that a few lines of C can move a motor or read a sensor still feels like magic to me.
-
-- 🔧 &nbsp; Playing with Arduino, AVR, ESP32
-- 📡 &nbsp; Getting into I²C, SPI, UART
-- 📐 &nbsp; Learning PCB design (Altium, EasyEDA)
-- 📐 &nbsp; Learning 3D Modeling (Fusion 360)
-- 🐣 &nbsp; Not a professional yet — just building and breaking things
-
----
-
-### 🗂 Projects
-
-| | Project | What I learned |
-|--|---------|----------------|
-| 🤖 | **Line Following Robot** | PID ,building OS |
-| 🔜 | **Future Engineer (WRO)** Obstacle Avoidance | Color detection |
-
----
-
+/
 ### 🧰 Tools I use
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
