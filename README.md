@@ -35,8 +35,14 @@ STM32 • CubeIDE • HAL
 </p>
 </p>
   <!-- PCB / HARDWARE -->
-<p style="font-size:14px;">
-EasyEDA • Eagle • Altium • Proteus • Cadence
+<h2 style="margin-top:50px;">PCB & HARDWARE</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/EasyEDA-FF6C37?style=for-the-badge&logo=easyeda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eagle-FF9E0F?style=for-the-badge&logo=autodesk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Altium-0A66C2?style=for-the-badge&logo=altiumdesigner&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Proteus-1E1E1E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cadence-EE0000?style=for-the-badge&logo=cadence&logoColor=white"/>
 </p>
   <!-- SOFTWARE / TOOLS -->
 
