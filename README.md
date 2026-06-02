@@ -35,20 +35,22 @@ STM32 • CubeIDE • HAL
 </p>
 </p>
   <!-- PCB / HARDWARE -->
-
 <h2 style="margin-top:50px;">PCB & HARDWARE</h2>
 <p>
   <!-- EasyEDA -->
   <img src="https://cdn.simpleicons.org/easyeda" height="60"/>
 
-  <!-- Altium -->
-  <img src="https://cdn.simpleicons.org/altiumdesigner" height="60"/>
+  <!-- Eagle -->
+  <img src="https://cdn.simpleicons.org/autodesk" height="60"/>
 
-  <!-- Proteus (no official icon → use chip-style fallback) -->
-  <img src="https://cdn.simpleicons.org/arm" height="60"/>
+  <!-- Altium (fallback stable logo) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Altium_Designer_Logo.png" height="60"/>
 
   <!-- Cadence -->
   <img src="https://cdn.simpleicons.org/cadence" height="60"/>
+
+  <!-- Proteus (no logo → best tech-style fallback) -->
+  <img src="https://cdn.simpleicons.org/analogdevices" height="60"/>
 </p>
 
   <!-- SOFTWARE / TOOLS -->
