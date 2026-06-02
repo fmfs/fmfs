@@ -21,10 +21,10 @@
   <!-- PCB / HARDWARE -->
 
   <h2 style="margin-top:50px;">PCB & HARDWARE</h2>
-  <p>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Altium_Designer_Logo.png" height="60"/>
-    <img src="https://skillicons.dev/icons?i=kicad" height="60"/>
-  </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=kicad" height="60"/>
+  <img src="https://skillicons.dev/icons?i=autocad" height="60"/>
+</p>
 
   <!-- SOFTWARE / TOOLS -->
 
