@@ -1,8 +1,11 @@
 <!--
-  ⚙️  Fahim Faisal — GitHub Profile README
+  ⚙️  fmfs — GitHub Profile README
   ─────────────────────────────────────────
-  IMPORTANT: Replace every  YOUR_USERNAME  below with your real GitHub username
-  so the live stats / streak / trophy cards render. Update social links too.
+  SETUP (one time):
+   1. Repo name MUST equal your username:  github.com/fmfs/fmfs
+   2. Commit divider.svg into an /assets folder at the repo root
+      (path used below: assets/divider.svg)
+   3. Fill in the LinkedIn / email / portfolio links in the "Connect" section.
 -->
 
 <div align="center">
@@ -11,16 +14,17 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03234B,50:0A66C2,100:00B4D8&height=220&section=header&text=Fahim%20Faisal&fontSize=58&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=Embedded%20Systems%20%E2%80%A2%20Robotics%20%E2%80%A2%20PCB%20Design&descSize=20&descAlignY=56"/>
 
 <!-- ░░ TYPING SUBTITLE ░░ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=650&height=45&lines=EEE+Undergrad+%40+SUST%2C+Sylhet+%F0%9F%87%A7%F0%9F%87%A9;I+make+microcontrollers+do+cool+things+%E2%9A%A1;From+schematic+%E2%86%92+PCB+%E2%86%92+working+product;STM32+%7C+Arduino+%7C+Raspberry+Pi+%7C+IoT)](https://github.com/YOUR_USERNAME)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=650&height=45&lines=EEE+Undergrad+%40+SUST%2C+Sylhet+%F0%9F%87%A7%F0%9F%87%A9;I+make+microcontrollers+do+cool+things+%E2%9A%A1;From+schematic+%E2%86%92+PCB+%E2%86%92+working+product;STM32+%7C+Arduino+%7C+Raspberry+Pi+%7C+IoT)](https://github.com/fmfs)
 
 <!-- ░░ QUICK BADGES ░░ -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0A66C2&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=fmfs&label=Profile%20Views&color=0A66C2&style=flat-square"/>
 <img src="https://img.shields.io/badge/Focus-Embedded%20Systems-00B4D8?style=flat-square"/>
 <img src="https://img.shields.io/badge/Based%20in-Sylhet%2C%20BD-03234B?style=flat-square"/>
 
-</div>
+<!-- ░░ CIRCUIT DIVIDER ░░ -->
+<img width="100%" src="assets/divider.svg"/>
 
-<br>
+</div>
 
 <!-- ░░ ABOUT ░░ -->
 ## ⚡ whoami
@@ -37,10 +41,8 @@ struct FahimFaisal {
 
 > I live at the intersection of **hardware and code** — soldering iron in one hand, debugger in the other. I design the board, route the traces, flash the firmware, and make the thing *actually work*.
 
-<br>
-
-<!-- ═══════════════════════════════════════════ -->
 <div align="center">
+<img width="100%" src="assets/divider.svg"/>
 
 ## 🔌 Embedded Systems
 
@@ -55,9 +57,7 @@ struct FahimFaisal {
 ![HAL](https://img.shields.io/badge/HAL%20Drivers-1E1E1E?style=for-the-badge&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-009639?style=for-the-badge&logoColor=white)
 
-<br>
-
----
+<img width="100%" src="assets/divider.svg"/>
 
 ## 🟩 PCB & Hardware Design
 
@@ -67,9 +67,7 @@ struct FahimFaisal {
 ![Proteus](https://img.shields.io/badge/Proteus-1E1E1E?style=for-the-badge&logoColor=white)
 ![Cadence](https://img.shields.io/badge/Cadence-EE0000?style=for-the-badge&logo=cadence&logoColor=white)
 
-<br>
-
----
+<img width="100%" src="assets/divider.svg"/>
 
 ## 🛠️ Tools & Software
 
@@ -80,9 +78,7 @@ struct FahimFaisal {
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6C00?style=for-the-badge&logo=autodesk&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
-<br>
-
----
+<img width="100%" src="assets/divider.svg"/>
 
 ## 🚀 Areas of Expertise
 
@@ -93,38 +89,33 @@ struct FahimFaisal {
 ![ML](https://img.shields.io/badge/🧠%20Machine%20Learning-161b22?style=for-the-badge)
 ![3D](https://img.shields.io/badge/🧩%203D%20Modeling-161b22?style=for-the-badge)
 
-<br>
-
----
+<img width="100%" src="assets/divider.svg"/>
 
 ## 📊 GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=00B4D8&title_color=0A66C2"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=0A66C2&currStreakLabel=00B4D8"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=fmfs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=00B4D8&title_color=0A66C2&text_color=c9d1d9"/>
+<img height="165" src="https://streak-stats.demolab.com?user=fmfs&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=0A66C2&currStreakLabel=00B4D8&sideLabels=c9d1d9&dates=8b949e"/>
 
 <br>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0A66C2&langs_count=8"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmfs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0A66C2&text_color=c9d1d9&langs_count=8"/>
 
 <br><br>
 
-<!-- ░░ TROPHIES ░░ -->
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=fmfs&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8"/>
 
 <br>
 
-<!-- ░░ ACTIVITY GRAPH ░░ -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=00B4D8&line=0A66C2&point=ffffff&area=true&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fmfs&bg_color=0D1117&color=00B4D8&line=0A66C2&point=ffffff&area=true&hide_border=true"/>
 
-<br>
-
----
+<img width="100%" src="assets/divider.svg"/>
 
 ## 🌐 Let's Connect
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-1E1E1E?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<!-- replace the # with your real links -->
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-1E1E1E?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 <br><br>
 
