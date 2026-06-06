@@ -14,17 +14,19 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-3d-contrib
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Generate the 3D graphs
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        uses: yoshi389111/github-profile-3d-contrib@latest
         env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # <-- this was missing before
           USERNAME: ${{ github.repository_owner }}
 
       - name: Commit & push the generated SVGs
         run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name  "github-actions"
+          git config user.email "github-actions@github.com"
           git add -A .
-          git diff --staged --quiet || git commit -m "chore: update 3d contribution graph"
-          git push
+          if git commit -m "chore: update 3d contribution graph"; then
+            git push
+          fi
