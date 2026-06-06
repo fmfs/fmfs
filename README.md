@@ -14,7 +14,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03234B,50:0A66C2,100:00B4D8&height=220&section=header&text=Fahim%20Faisal&fontSize=58&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=Embedded%20Systems%20%E2%80%A2%20Robotics%20%E2%80%A2%20PCB%20Design&descSize=20&descAlignY=56"/>
 
 <!-- ░░ TYPING SUBTITLE ░░ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=650&height=45&lines=EEE+Undergrad+%40+SUST%2C+Sylhet+%F0%9F%87%A7%F0%9F%87%A9;I+make+microcontrollers+do+cool+things+%E2%9A%A1;From+schematic+%E2%86%92+PCB+%E2%86%92+working+product;STM32+%7C+Arduino+%7C+Raspberry+Pi+%7C+IoT)](https://github.com/fmfs)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=650&height=45&lines=EEE+Undergrad+%40+(SEC)SUST%2C+Sylhet+%F0%9F%87%A7%F0%9F%87%A9;I+make+microcontrollers+do+cool+things+%E2%9A%A1;From+schematic+%E2%86%92+PCB+%E2%86%92+working+product;STM32+%7C+Arduino+%7C+Raspberry+Pi+%7C+IoT)](https://github.com/fmfs)
 
 <!-- ░░ QUICK BADGES ░░ -->
 <img src="https://komarev.com/ghpvc/?username=fmfs&label=Profile%20Views&color=0A66C2&style=flat-square"/>
