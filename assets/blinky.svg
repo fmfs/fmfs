@@ -1,0 +1,32 @@
+<svg viewBox="0 0 560 160" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="blinky">
+<defs><filter id="lg" x="-120%" y="-120%" width="340%" height="340%"><feGaussianBlur stdDeviation="3.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><linearGradient id="bz" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0A66C2"/><stop offset="1" stop-color="#03234B"/></linearGradient></defs>
+<rect x="3" y="3" width="554" height="154" rx="14" fill="url(#bz)"/>
+<rect x="12" y="12" width="536" height="136" rx="10" fill="#06121f"/>
+<rect x="28" y="34" width="210" height="92" rx="8" fill="#0c2238" stroke="#00B4D8" stroke-opacity="0.5"/>
+<circle cx="40" cy="46" r="3.5" fill="#06121f" stroke="#5a6b82"/>
+<circle cx="226" cy="46" r="3.5" fill="#06121f" stroke="#5a6b82"/>
+<circle cx="40" cy="114" r="3.5" fill="#06121f" stroke="#5a6b82"/>
+<circle cx="226" cy="114" r="3.5" fill="#06121f" stroke="#5a6b82"/>
+<rect x="64" y="58" width="60" height="44" rx="4" fill="#0a0f16" stroke="#5a6b82"/>
+<text x="94" y="84" font-family="monospace" font-size="11" fill="#5a6b82" text-anchor="middle">MCU</text>
+<rect x="58" y="66" width="6" height="3" fill="#5a6b82"/>
+<rect x="124" y="66" width="6" height="3" fill="#5a6b82"/>
+<rect x="58" y="75" width="6" height="3" fill="#5a6b82"/>
+<rect x="124" y="75" width="6" height="3" fill="#5a6b82"/>
+<rect x="58" y="84" width="6" height="3" fill="#5a6b82"/>
+<rect x="124" y="84" width="6" height="3" fill="#5a6b82"/>
+<rect x="58" y="93" width="6" height="3" fill="#5a6b82"/>
+<rect x="124" y="93" width="6" height="3" fill="#5a6b82"/>
+<path d="M130 80 H150 M186 80 H206" stroke="#00B4D8" stroke-width="2" fill="none"/>
+<path d="M150 80 l4 -7 l8 14 l8 -14 l8 14 l4 -7" stroke="#FFC857" stroke-width="2" fill="none"/>
+<text x="168" y="103" font-family="monospace" font-size="9" fill="#5a6b82" text-anchor="middle">330Ω</text>
+<circle cx="216" cy="80" r="11" fill="#00F5A0" filter="url(#lg)"><animate attributeName="opacity" values="1;1;0.12;0.12" keyTimes="0;0.45;0.55;1" dur="1.2s" repeatCount="indefinite"/></circle>
+<text x="216" y="124" font-family="monospace" font-size="10" fill="#00B4D8" text-anchor="middle">PA5 → LED</text>
+<rect x="262" y="34" width="282" height="92" rx="8" fill="#04101c" stroke="#0A66C2" stroke-opacity="0.4"/>
+<text x="276" y="52" font-family="monospace" font-size="12.5" fill="#c9d1d9">while (1) {</text>
+<text x="276" y="69" font-family="monospace" font-size="12.5" fill="#00B4D8">  HAL_GPIO_TogglePin(</text>
+<text x="276" y="86" font-family="monospace" font-size="12.5" fill="#00B4D8">      GPIOA, GPIO_PIN_5);</text>
+<text x="276" y="103" font-family="monospace" font-size="12.5" fill="#00F5A0">  HAL_Delay(500);</text>
+<text x="276" y="120" font-family="monospace" font-size="12.5" fill="#c9d1d9">}</text>
+<text x="28" y="148" font-family="monospace" font-size="11" fill="#5a6b82">// hello, embedded world — every journey starts with Blinky</text>
+</svg>
