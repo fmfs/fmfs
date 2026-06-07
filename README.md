@@ -1,50 +1,135 @@
-<svg viewBox="0 0 860 210" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="MCU system monitor">
-<defs><filter id="g" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><linearGradient id="bezel" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0A66C2"/><stop offset="1" stop-color="#03234B"/></linearGradient><linearGradient id="load" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00B4D8"/><stop offset="1" stop-color="#00F5A0"/></linearGradient><clipPath id="ekg"><rect x="430" y="60" width="400" height="62" rx="6"/></clipPath></defs>
-<rect x="3" y="3" width="854" height="204" rx="14" fill="url(#bezel)"/>
-<rect x="12" y="12" width="836" height="186" rx="10" fill="#06121f"/>
-<rect x="12" y="12" width="836" height="30" rx="10" fill="#0b1b2e"/>
-<rect x="12" y="30" width="836" height="12" fill="#0b1b2e"/>
-<circle cx="30" cy="27" r="5" fill="#00F5A0" filter="url(#g)"><animate attributeName="opacity" values="1;0.25;1" dur="1.1s" repeatCount="indefinite"/></circle>
-<text x="44" y="31" font-family="monospace" font-size="13" fill="#c9d1d9">fmfs-mcu</text>
-<text x="118" y="31" font-family="monospace" font-size="13" fill="#5a6b82">STM32F4 @ 168 MHz</text>
-<text x="760" y="31" font-family="monospace" font-size="13" fill="#00F5A0">RUNNING</text>
-<line x1="400" y1="52" x2="400" y2="196" stroke="#0A66C2" stroke-opacity="0.35" stroke-width="1"/>
-<text x="30" y="66" font-family="monospace" font-size="11" fill="#5a6b82">PERIPHERALS</text>
-<circle cx="34" cy="82" r="5" fill="#00F5A0" filter="url(#g)"><animate attributeName="opacity" values="1;0.15;1" dur="1.0s" repeatCount="indefinite"/></circle>
-<text x="48" y="86" font-family="monospace" font-size="13" fill="#c9d1d9">TIM2</text>
-<text x="150" y="86" font-family="monospace" font-size="13" fill="#00F5A0">PWM</text>
-<text x="250" y="86" font-family="monospace" font-size="13" fill="#5a6b82">OK</text>
-<circle cx="34" cy="101" r="5" fill="#00B4D8" filter="url(#g)"><animate attributeName="opacity" values="1;0.15;1" dur="0.45s" repeatCount="indefinite"/></circle>
-<text x="48" y="105" font-family="monospace" font-size="13" fill="#c9d1d9">USART1</text>
-<text x="150" y="105" font-family="monospace" font-size="13" fill="#00B4D8">TX</text>
-<text x="250" y="105" font-family="monospace" font-size="13" fill="#5a6b82">OK</text>
-<circle cx="34" cy="120" r="5" fill="#4D9FFF" filter="url(#g)"><animate attributeName="opacity" values="1;0.15;1" dur="0.25s" repeatCount="indefinite"/></circle>
-<text x="48" y="124" font-family="monospace" font-size="13" fill="#c9d1d9">SPI1</text>
-<text x="150" y="124" font-family="monospace" font-size="13" fill="#4D9FFF">SCK</text>
-<text x="250" y="124" font-family="monospace" font-size="13" fill="#5a6b82">OK</text>
-<circle cx="34" cy="139" r="5" fill="#00F5A0" filter="url(#g)"><animate attributeName="opacity" values="1;0.15;1" dur="0.8s" repeatCount="indefinite"/></circle>
-<text x="48" y="143" font-family="monospace" font-size="13" fill="#c9d1d9">I2C1</text>
-<text x="150" y="143" font-family="monospace" font-size="13" fill="#00F5A0">ACK</text>
-<text x="250" y="143" font-family="monospace" font-size="13" fill="#5a6b82">OK</text>
-<circle cx="34" cy="158" r="5" fill="#FFC857" filter="url(#g)"><animate attributeName="opacity" values="1;0.15;1" dur="0.6s" repeatCount="indefinite"/></circle>
-<text x="48" y="162" font-family="monospace" font-size="13" fill="#c9d1d9">ADC1</text>
-<text x="150" y="162" font-family="monospace" font-size="13" fill="#FFC857">EOC</text>
-<text x="250" y="162" font-family="monospace" font-size="13" fill="#5a6b82">OK</text>
-<circle cx="34" cy="177" r="5" fill="#00B4D8" filter="url(#g)"><animate attributeName="opacity" values="1;0.15;1" dur="0.5s" repeatCount="indefinite"/></circle>
-<text x="48" y="181" font-family="monospace" font-size="13" fill="#c9d1d9">DMA2</text>
-<text x="150" y="181" font-family="monospace" font-size="13" fill="#00B4D8">BUSY</text>
-<text x="250" y="181" font-family="monospace" font-size="13" fill="#5a6b82">OK</text>
-<text x="430" y="56" font-family="monospace" font-size="11" fill="#5a6b82">SYSTEM HEARTBEAT</text>
-<rect x="430" y="60" width="400" height="62" rx="6" fill="#04101c"/>
-<g clip-path="url(#ekg)">
-<g transform="translate(430,60)"><path d="M0 31 H40 L46 25 L52 37 L58 31 H78 L84 4 L90 58 L96 31 H130 M130 31 H170 L176 25 L182 37 L188 31 H208 L214 4 L220 58 L226 31 H260 M260 31 H300 L306 25 L312 37 L318 31 H338 L344 4 L350 58 L356 31 H390 M390 31 H430 L436 25 L442 37 L448 31 H468 L474 4 L480 58 L486 31 H520 M520 31 H560 L566 25 L572 37 L578 31 H598 L604 4 L610 58 L616 31 H650" fill="none" stroke="#00F5A0" stroke-width="2" filter="url(#g)"><animateTransform attributeName="transform" type="translate" from="0 0" to="-130 0" dur="2.4s" repeatCount="indefinite"/></path></g>
-</g>
-<text x="430" y="150" font-family="monospace" font-size="12" fill="#c9d1d9">CPU LOAD</text>
-<rect x="510" y="140" width="240" height="12" rx="6" fill="#04101c" stroke="#0A66C2" stroke-opacity="0.4"/>
-<rect x="512" y="142" width="80" height="8" rx="4" fill="url(#load)"><animate attributeName="width" values="60;210;120;180;90;200;60" dur="5s" repeatCount="indefinite"/></rect>
-<text x="762" y="150" font-family="monospace" font-size="12" fill="#00B4D8">%</text>
-<text x="430" y="178" font-family="monospace" font-size="12" fill="#c9d1d9">HEAP</text>
-<rect x="510" y="168" width="240" height="12" rx="6" fill="#04101c" stroke="#0A66C2" stroke-opacity="0.4"/>
-<rect x="512" y="170" width="150" height="8" rx="4" fill="#00B4D8"/>
-<text x="762" y="178" font-family="monospace" font-size="11" fill="#5a6b82">12.4/20 KB</text>
-</svg>
+<!--
+  ⚙️  fmfs — GitHub Profile README
+  ─────────────────────────────────────────
+  SETUP:
+   1. Repo name MUST equal your username:  github.com/fmfs/fmfs
+   2. Commit these SVGs into an /assets folder at the repo root:
+        assets/scope_banner.svg
+        assets/divider.svg
+        assets/sysmon.svg
+        assets/blinky.svg
+   3. Fill in the LinkedIn / email / portfolio links in the "Connect" section.
+   (No GitHub Actions needed — every custom graphic is self-contained.)
+-->
+
+<div align="center">
+
+<!-- ░░ ANIMATED HEADER BANNER ░░ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03234B,50:0A66C2,100:00B4D8&height=220&section=header&text=Fahim%20Faisal&fontSize=58&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=Embedded%20Systems%20%E2%80%A2%20Robotics%20%E2%80%A2%20PCB%20Design&descSize=20&descAlignY=56"/>
+
+<!-- ░░ TYPING SUBTITLE ░░ -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=650&height=45&lines=EEE+Undergrad+%40+SUST%2C+Sylhet+%F0%9F%87%A7%F0%9F%87%A9;I+make+microcontrollers+do+cool+things+%E2%9A%A1;From+schematic+%E2%86%92+PCB+%E2%86%92+working+product;STM32+%7C+Arduino+%7C+Raspberry+Pi+%7C+IoT)](https://github.com/fmfs)
+
+<!-- ░░ LIVE OSCILLOSCOPE BANNER ░░ -->
+<img width="100%" src="assets/scope_banner.svg"/>
+
+<!-- ░░ QUICK BADGES ░░ -->
+<img src="https://komarev.com/ghpvc/?username=fmfs&label=Profile%20Views&color=0A66C2&style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-Embedded%20Systems-00B4D8?style=flat-square"/>
+<img src="https://img.shields.io/badge/Based%20in-Sylhet%2C%20BD-03234B?style=flat-square"/>
+
+<img width="100%" src="assets/divider.svg"/>
+
+</div>
+
+<!-- ░░ ABOUT ░░ -->
+## ⚡ whoami
+
+```c
+struct FahimFaisal {
+    char  *role     = "EEE Undergraduate @ SUST, Sylhet";
+    char  *building = "Robots, PCBs & embedded firmware";
+    char  *stack[]  = {"STM32", "Arduino", "Raspberry Pi", "C/C++", "Python"};
+    char  *learning = "Edge ML on microcontrollers";
+    bool   coffee   = true;   // always
+};
+```
+
+> I live at the intersection of **hardware and code** — soldering iron in one hand, debugger in the other. I design the board, route the traces, flash the firmware, and make the thing *actually work*.
+
+<div align="center">
+<img width="100%" src="assets/divider.svg"/>
+
+## 📟 System Monitor
+
+<img width="100%" src="assets/sysmon.svg"/>
+
+<img width="100%" src="assets/divider.svg"/>
+
+## 🔧 Blinky — Hello, Embedded World
+
+<img src="assets/blinky.svg" width="560"/>
+
+<img width="100%" src="assets/divider.svg"/>
+
+## 🔌 Embedded Systems
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp,python" height="48"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/stmicroelectronics/03234B" height="48"/>
+
+<br><br>
+
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![CubeIDE](https://img.shields.io/badge/STM32CubeIDE-0A66C2?style=for-the-badge&logoColor=white)
+![HAL](https://img.shields.io/badge/HAL%20Drivers-1E1E1E?style=for-the-badge&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-009639?style=for-the-badge&logoColor=white)
+
+<img width="100%" src="assets/divider.svg"/>
+
+## 🟩 PCB & Hardware Design
+
+![EasyEDA](https://img.shields.io/badge/EasyEDA-FF6C37?style=for-the-badge&logo=easyeda&logoColor=white)
+![Eagle](https://img.shields.io/badge/Eagle-FF9E0F?style=for-the-badge&logo=autodesk&logoColor=white)
+![Altium](https://img.shields.io/badge/Altium-0A66C2?style=for-the-badge&logo=altiumdesigner&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-1E1E1E?style=for-the-badge&logoColor=white)
+![Cadence](https://img.shields.io/badge/Cadence-EE0000?style=for-the-badge&logo=cadence&logoColor=white)
+
+<img width="100%" src="assets/divider.svg"/>
+
+## 🛠️ Tools & Software
+
+<img src="https://skillicons.dev/icons?i=vscode,matlab,git,github,linux" height="48"/>
+
+<br><br>
+
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6C00?style=for-the-badge&logo=autodesk&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+<img width="100%" src="assets/divider.svg"/>
+
+## 🚀 Areas of Expertise
+
+![Robotics](https://img.shields.io/badge/🤖%20Robotics-161b22?style=for-the-badge)
+![Embedded](https://img.shields.io/badge/⚡%20Embedded%20Systems-161b22?style=for-the-badge)
+![PCB](https://img.shields.io/badge/🟩%20PCB%20Design-161b22?style=for-the-badge)
+![IoT](https://img.shields.io/badge/🌐%20IoT-161b22?style=for-the-badge)
+![ML](https://img.shields.io/badge/🧠%20Machine%20Learning-161b22?style=for-the-badge)
+![3D](https://img.shields.io/badge/🧩%203D%20Modeling-161b22?style=for-the-badge)
+
+<img width="100%" src="assets/divider.svg"/>
+
+## 📊 GitHub Stats
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=fmfs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=00B4D8&title_color=0A66C2&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmfs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0A66C2&text_color=c9d1d9&langs_count=8"/>
+
+<br><br>
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=fmfs&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8"/>
+
+<img width="100%" src="assets/divider.svg"/>
+
+## 🌐 Let's Connect
+
+<!-- replace the # with your real links -->
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-1E1E1E?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+<br><br>
+
+<!-- ░░ FOOTER WAVE ░░ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:0A66C2,100:03234B&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=20&fontColor=ffffff&fontAlignY=70"/>
+
+</div>
